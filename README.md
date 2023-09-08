@@ -10,3 +10,7 @@ sudo apt-get install apache2- y
 ```bash
 sudo systemctl status apache2
 ```
+## Restart apache2
+```bash
+sudo systemctl restart apache2
+```
