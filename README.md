@@ -3,13 +3,9 @@
 ## adding test line
 ## Install apache
 ```bash
-sudo apt-get install apache2- y
+sudo apt-get install apache2 git -y
 ```
 
-## Check apache status
-```bash
-sudo systemctl status apache2
-```
 ## Restart apache2
 ```bash
 sudo systemctl restart apache2
