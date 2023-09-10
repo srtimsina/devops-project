@@ -10,3 +10,5 @@ sudo apt-get install apache2 git -y
 ```bash
 sudo systemctl restart apache2
 ```
+# Usage
+Use the following command to use this project
