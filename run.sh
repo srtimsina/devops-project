@@ -8,3 +8,6 @@ df -h
 
 echo "memory utilization info"
 free -m
+
+echo "Install apache package"
+sudo apt-get install apache2 git zip unzip -y
