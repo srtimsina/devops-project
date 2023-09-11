@@ -3,7 +3,7 @@
 ## adding test line
 ## Install apache
 ```bash
-sudo apt-get install apache2 git -y
+sudo apt-get install apache2 git zip unzip -y
 ```
 
 ## Restart apache2
